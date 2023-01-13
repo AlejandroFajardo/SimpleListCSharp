@@ -1,2 +1,2 @@
 # SimpleListCSharp
-Implementación de teoría de listas simples
+C# Simple List Theory Implementation example
